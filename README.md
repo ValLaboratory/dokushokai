@@ -6,7 +6,7 @@ perfect_rails
 レポート
 ---
 
-持ち回りでPull Requestでレポートを書いてみましょう
+持ち回りでPull Requestでレポートを書いてみましょう<br>
 フォーマットは [第1回](https://github.com/ValLaboratory/perfect_rails/blob/master/reports/20140826.md) を参考にしてみてください
 
 + このリポジトリを手元にクローンする
@@ -41,13 +41,13 @@ git push origin `date +"%Y%m%d"`
 実況板
 ---
 
-各班の状況がわかるとレポートも書きやすいので、
+各班の状況がわかるとレポートも書きやすいので、<br>
 適度にGitHubのissueに実況をお願いします。
 
 環境構築
 ---
 
-基本は本の通りで良いと思いますが、悩んだらVagrantでCentOSの環境を入れましょう
+基本は本の通りで良いと思いますが、悩んだらVagrantでCentOSの環境を入れましょう<br>
 (thx to おおさわさん)
 
 ~~~
