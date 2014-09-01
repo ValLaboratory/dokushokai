@@ -6,7 +6,7 @@ perfect_rails
 レポート
 ---
 
-持ち回りでPull Requestでレポートを書いてみましょう<br>
+レポーターの方はPull Requestで該当回のレポートをお願いします<br>
 フォーマットは [第1回](https://github.com/ValLaboratory/perfect_rails/blob/master/reports/20140826.md) を参考にしてみてください
 
 + このリポジトリを手元にクローンする
