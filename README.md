@@ -67,10 +67,17 @@ git push origin `date +"%Y%m%d"`
 ---
 
 基本は本の通りで良いと思いますが、悩んだらVagrantでCentOSの環境を入れましょう<br>
-(thx to おおさわさん)
+(presented by o-sawa)
+
+２つ用意してありますので、お好きな方をお使いください。<br>
+設定してあることなどは各gistのreadme.mdに入っておりますので、そちらをご覧ください。
+ 1. 社内Proxy設定有り<br>
+    git@gist.github.com:/ab19a6513991e324f2d4.git
+ 1. Proxy設定なし<br>
+    git@gist.github.com:/347da47a0cede44f551e.git
 
 ~~~
-# おおさわさんのvagrant設定を手元にクローン
+# o-sawaのvagrant設定を手元にクローン(pathは利用する環境により読み替えてください)
 git clone git@gist.github.com:/347da47a0cede44f551e.git
 
 # クローンしたディレクトリに移動
