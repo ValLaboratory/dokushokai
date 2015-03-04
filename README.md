@@ -52,10 +52,16 @@ touch reports/`date +"%Y%m%d"`.md
 # レポート書く(viじゃなくてもいいです)
 vi reports/`date +"%Y%m%d"`.md
 
+# コミットする
+git add `date +"%Y%m%d"`
+git commit -m "第N回のレポートを作成"
+
 # レポートをリモートブランチにプッシュする
 git push origin `date +"%Y%m%d"`
 
 # その後 https://github.com/ValLaboratory/perfect_rails からPR作成
+# hubコマンドツール( https://github.com/github/hub )導入済みならば
+hub pull-request
 ~~~
 
 実況板
